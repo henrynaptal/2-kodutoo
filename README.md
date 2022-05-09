@@ -1,28 +1,19 @@
 # 2-kodutoo
 
-2. kodutÃ¶Ã¶ Eesrakenduste arendamises.
+2. kodutöö Eesrakenduste arendamises.
 
-## TÃ¤htaeg 07.05.2022 23:59
+## Tähtaeg 07.05.2022 23:59
 
-Kujunda ja loo ise lihtne mÃ¤ng. 
+Kujunda ja loo ise lihtne mäng. 
 
-## NÃµuded
+# Henry Naptal
 
-1. MÃ¤ng tÃ¶Ã¶tab.
-1. MÃ¤ng on tehtud jQuery-ga. 
-1. MÃ¤ng on objektorienteeritud (klassides) ja kasutatud on AJAX-it. 
-1. MÃ¤ng on originaalne ning kasutajaliides on maitsekalt kujundatud kasutades CSS-i - peab olema ise kirjutatud. 
-1. Autori ees- ja perenimi on lehel vÃ¤lja toodud
-1. Lehel on viide rakenduse repositooriumile
-1. `README.md` failis on vÃ¤lja toodud autori nimi, ekraanipilt rakendusest ja kirjeldatud funktsionaalsus
-1. Kui kasutatud on koodi mujalt, siis sellel on viidatud. 
+![space2](https://user-images.githubusercontent.com/90316656/167372732-7b68e2d6-4ff5-4421-9fec-2827b958e08f.png)
 
-## MÃµned ideed (lihtsalt, et mÃµte hakkaks jooksma)
+## Kuidas mäng käib?
 
-* UssimÃ¤ng
-* Cookie clicker
-* Erinevad arvutamismÃ¤ngud
-* 2048
-**
+Lihtne, nooltega liigud paremale ja vasakule ning spacebar'iga saad tulistada. Mängu eesmärk on maha lasta kõik UFO'd.
 
-VÃµimalik saada - 25 punkti
+## Viited
+
+Kasutasin seda tööd tehes youtube tutoriali seeriat Code Bucketi kanalilt: https://www.youtube.com/watch?v=vYzpcX-Rsno
